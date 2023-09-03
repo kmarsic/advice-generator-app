@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://kmarsic.github.io/notification-page-main-template/)
+- Solution URL: [Click me](https://kmarsic.github.io/advice-generator-app/)
 
 ## My process
 
